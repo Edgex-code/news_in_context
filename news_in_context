@@ -1,0 +1,23 @@
+[
+ {
+    "id": "1",
+    "title": "Global Stocks Rally After U.S. Strikes in Venezuela",
+    "summary": "Global stock markets rallied sharply, with major U.S. indices hitting record highs after U.S. forces conducted a military raid in Venezuela and captured President Nicolás Maduro, boosting energy and defence shares amid optimism about future oil investment.",
+    "context": "The U.S. military operation in Venezuela and capture of President Maduro sparked investor optimism about potential access to Venezuela’s vast oil reserves, lifting energy stocks and broader equity markets.\n\nEnergy companies such as Chevron and Halliburton saw notable gains as markets priced in the possibility of renewed oil production and reconstruction efforts.\n\nSafe-haven assets like gold also rose amid sustained geopolitical uncertainty, and global indexes, including the Dow and FTSE 100, reached new highs. :contentReference[oaicite:0]{index=0}",
+    "date": "January 5, 2026"
+  },
+  {
+    "id": "2",
+    "title": "Gold Nears Record on Geopolitical Risk and Safe-Haven Demand",
+    "summary": "Gold prices rose toward record levels as geopolitical tensions tied to Venezuela lifted demand for safe-haven assets, with investors seeking protection from market uncertainty.",
+    "context": "Heightened geopolitical risk following the U.S. military action in Venezuela increased demand for safe-haven assets such as gold.\n\nAnalysts also pointed to broader uncertainty around global growth and inflation dynamics as factors supporting bullion’s appeal.\n\nPrecious metals markets reflected investor hedging behaviour in a volatile macro environment. :contentReference[oaicite:1]{index=1}",
+    "date": "January 6, 2026"
+  },
+  {
+    "id": "3",
+    "title": "Investors Test Appetite for Geopolitical Risk After Venezuela Gambit",
+    "summary": "Global investors grappled with the implications of the U.S. capture of Nicolás Maduro, with markets broadly shrugging off the geopolitical shock but analysts warning of underestimated risk in Latin America and beyond.",
+    "context": "Market reaction to the audacious U.S. action in Venezuela was relatively calm, partly because Venezuela’s current oil output represents a small share of global supply.\n\nHowever, analysts cautioned that geopolitical risks may be underpriced, noting that the move could influence defence spending, investor sentiment and broader geopolitical dynamics.\n\nThe episode highlighted investor focus on broader macro drivers alongside emerging political risks. :contentReference[oaicite:2]{index=2}",
+    "date": "January 6, 2026"
+  }
+]
