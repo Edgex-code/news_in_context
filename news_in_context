@@ -1,23 +1,24 @@
 [
   {
     "id": "1",
-    "title": "European and global stocks slide as Trump tariff threats linked to Greenland rattle investors",
-    "summary": "Equities weakened as markets priced in renewed trade and geopolitical risk after U.S. President Donald Trump threatened additional tariffs on multiple European countries tied to a dispute over U.S. access to (or purchase of) Greenland. In Europe, the STOXX 600 logged its biggest drop in about two months, while safe-haven assets (yen/Swiss franc) and gold drew support.",
-    "context": "- Why markets cared: Tariff threats quickly raise uncertainty around earnings, supply chains, and pricing power—especially for export-heavy European sectors.\\n\\n- Cross-asset reaction: Risk-off flows typically strengthen safe havens (JPY/CHF) and support gold while pressuring cyclical equities.\\n\\n- Why it mattered for conditions: Policy shocks can tighten financial conditions without a central-bank move by increasing risk premia and volatility.",
-    "date": "January 19, 2026"
+    "title": "Trump tariff threats linked to Greenland dispute jolt global markets as gold hits fresh records",
+    "summary": "Markets turned risk-averse as renewed U.S. tariff threats against European allies over the Greenland dispute pressured equity futures, the dollar and Treasuries, while boosting safe havens like gold to new highs. The episode revived talk of a “sell America” trade and lifted volatility, highlighting how geopolitics and trade policy expectations were again steering cross-asset sentiment.",
+    "context": "- Tariff threats against Europe (including talk of 200% duties on some French imports) drove a sharp safe-haven bid\n\n- Volatility jumped while equities slid, underscoring investor sensitivity to trade-war risks\n\n- The episode fed broader concerns about global fragmentation and portfolio diversification away from U.S. assets",
+    "date": "2026-01-20"
   },
   {
     "id": "2",
-    "title": "Japan bond selloff pushes long-dated yields to record highs, rippling through global bond markets",
-    "summary": "A sharp move higher in long-dated Japanese government bond yields—driven by election-linked fiscal concerns—spilled into other major bond markets, highlighting investor sensitivity to debt supply and fiscal sustainability.",
-    "context": "- Global rates linkage: Japan’s huge bond market influences global term premia; a rapid JGB repricing can transmit to U.S./EU curves via relative-value and hedging channels.\\n\\n- Flow effects: Higher JGB yields can change incentives for Japanese investors to hold foreign bonds, impacting global demand for Treasuries and other sovereign debt.\\n\\n- Risk-asset implications: Rising long-end yields can pressure equity valuations and credit by increasing discount rates and tightening financing conditions.",
-    "date": "January 20, 2026"
+    "title": "Credit markets roar into 2026 with record early-year corporate bond issuance",
+    "summary": "Credit markets saw an exceptionally strong start to the year as companies rushed to sell bonds, pushing issuance to a record pace for the period and signaling robust investor demand for corporate debt. The surge reflected confidence in funding conditions and appetite for spread products, even as investors weighed macro and policy uncertainty.",
+    "context": "- Corporate bond issuance in early January hit a record pace, indicating unusually easy access to capital\n\n- Heavy supply was absorbed well, pointing to strong institutional demand for credit risk\n\n- The issuance wave reinforced the view that financing conditions remained supportive entering 2026",
+    "date": "2026-01-16"
   },
   {
     "id": "3",
-    "title": "US investment-grade credit spreads hit fresh multi-decade lows as bond demand stays strong despite volatility",
-    "summary": "US investment-grade credit spreads tightened to very low levels, signalling strong investor appetite for high-quality corporate debt even as other markets were volatile. Issuance remained active, supported by steady demand from long-term buyers.",
-    "context": "- What tight spreads signal: Credit investors are demanding little extra yield over Treasuries, implying strong risk appetite and easy corporate funding conditions.\\n\\n- Market impact: Lower borrowing costs can support refinancing, buybacks, and capex, helping equities and corporate balance sheets in the short run.\\n\\n- Hidden fragility: When spreads are extremely tight, credit can be more vulnerable to shocks (growth scares, rate volatility, downgrades) because there’s less cushion for repricing.",
-    "date": "January 23, 2026"
+    "title": "India’s central bank unveils over $23 billion liquidity injection as rupee hits record low",
+    "summary": "India’s central bank announced a package of liquidity measures worth more than $23 billion—spanning bond purchases, FX swaps and repo operations—aimed at stabilizing financial conditions and reinforcing policy support. The move came amid pressure on the rupee (which touched a record low) and rising bond yields, as policymakers balanced currency stability with domestic borrowing costs and capital flows.",
+    "context": "- RBI laid out bond purchases, a USD/INR swap and repo operations to boost banking-system liquidity\n\n- The rupee weakened to a record low while yields climbed, sharpening the policy trade-offs\n\n- The measures were designed to keep money-market rates contained and support transmission of earlier rate cuts",
+    "date": "2026-01-23"
   }
 ]
+
