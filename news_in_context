@@ -1,24 +1,23 @@
 [
   {
     "id": "1",
-    "title": "Trump tariff threats linked to Greenland dispute jolt global markets as gold hits fresh records",
-    "summary": "Markets turned risk-averse as renewed U.S. tariff threats against European allies over the Greenland dispute pressured equity futures, the dollar and Treasuries, while boosting safe havens like gold to new highs. The episode revived talk of a “sell America” trade and lifted volatility, highlighting how geopolitics and trade policy expectations were again steering cross-asset sentiment.",
-    "context": "- Tariff threats against Europe (including talk of 200% duties on some French imports) drove a sharp safe-haven bid\n\n- Volatility jumped while equities slid, underscoring investor sensitivity to trade-war risks\n\n- The episode fed broader concerns about global fragmentation and portfolio diversification away from U.S. assets",
-    "date": "2026-01-20"
+    "title": "Trump Nominates Kevin Warsh for Fed Chair as Gold Prices Plunge",
+    "summary": "President Donald Trump announced his nomination of Kevin Warsh to succeed Jerome Powell as the next Chair of the Federal Reserve. The news triggered immediate market volatility, with safe-haven assets like gold and silver seeing a sharp sell-off as the U.S. dollar rebounded from four-year lows.",
+    "context": "- President Trump praised Warsh on Truth Social, predicting he would be one of the 'greatest' Fed Chairs in history.\n\n- Gold prices tumbled 9% to approximately $4,880 an ounce following the announcement, after having reached record highs earlier in the week.\n\n- The nomination comes amid ongoing tensions between the White House and the current Fed leadership over interest rate policy and central bank independence.\n\n- Markets viewed the pick as a shift toward a potentially more pro-growth or politically aligned monetary policy framework.",
+    "date": "January 30, 2026"
   },
   {
     "id": "2",
-    "title": "Credit markets roar into 2026 with record early-year corporate bond issuance",
-    "summary": "Credit markets saw an exceptionally strong start to the year as companies rushed to sell bonds, pushing issuance to a record pace for the period and signaling robust investor demand for corporate debt. The surge reflected confidence in funding conditions and appetite for spread products, even as investors weighed macro and policy uncertainty.",
-    "context": "- Corporate bond issuance in early January hit a record pace, indicating unusually easy access to capital\n\n- Heavy supply was absorbed well, pointing to strong institutional demand for credit risk\n\n- The issuance wave reinforced the view that financing conditions remained supportive entering 2026",
-    "date": "2026-01-16"
+    "title": "Federal Reserve Holds Rates Steady Amid Robust GDP Growth",
+    "summary": "The Federal Reserve opted to keep interest rates unchanged at a range of 3.5% to 3.75% during its January policy meeting. Despite pressure from the White House to lower borrowing costs, Fed Chair Jerome Powell emphasized that the central bank is in 'no rush' to cut rates given the economy's strong performance.",
+    "context": "- Official data showed annualized GDP growth of 4.4% for the third quarter of 2025, with some estimates suggesting a jump to 5.4% in the following period.\n\n- Jerome Powell signaled that policymakers intend to remain patient as they monitor a 'fragile' labor market and persistent inflationary pressures.\n\n- Large-scale layoff announcements from firms like Amazon and UPS (totaling over 52,000 jobs) factored into the cautious tone of the FOMC statement.\n\n- Investors have pushed back expectations for the next rate cut to the summer of 2026 at the earliest.",
+    "date": "January 28, 2026"
   },
   {
     "id": "3",
-    "title": "India’s central bank unveils over $23 billion liquidity injection as rupee hits record low",
-    "summary": "India’s central bank announced a package of liquidity measures worth more than $23 billion—spanning bond purchases, FX swaps and repo operations—aimed at stabilizing financial conditions and reinforcing policy support. The move came amid pressure on the rupee (which touched a record low) and rising bond yields, as policymakers balanced currency stability with domestic borrowing costs and capital flows.",
-    "context": "- RBI laid out bond purchases, a USD/INR swap and repo operations to boost banking-system liquidity\n\n- The rupee weakened to a record low while yields climbed, sharpening the policy trade-offs\n\n- The measures were designed to keep money-market rates contained and support transmission of earlier rate cuts",
-    "date": "2026-01-23"
+    "title": "Nvidia Doubles Down on AI Infrastructure with $2 Billion CoreWeave Investment",
+    "summary": "Nvidia significantly expanded its partnership with AI cloud provider CoreWeave, investing an additional $2 billion to bolster specialized computing infrastructure. The move highlights the intensifying race among tech giants to secure the hardware necessary for large-scale artificial intelligence models.",
+    "context": "- The investment sent CoreWeave shares sharply higher and reinforced Nvidia's role as a primary kingmaker in the generative AI ecosystem.\n\n- Analysts suggest the deal is a strategic move to secure captive demand for Nvidia's next-generation Blackwell and H200 chips.\n\n- The news broke as the 'Magnificent Seven' tech stocks faced heightened scrutiny over their valuations ahead of major quarterly earnings reports.\n\n- CoreWeave is now projected to hit a market capitalization exceeding $100 billion by late 2027 based on current revenue trajectories.",
+    "date": "January 26, 2026"
   }
 ]
-
