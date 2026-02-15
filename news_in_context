@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "title": "Trump Nominates Kevin Warsh for Fed Chair as Gold Prices Plunge",
-    "summary": "President Donald Trump announced his nomination of Kevin Warsh to succeed Jerome Powell as the next Chair of the Federal Reserve. The news triggered immediate market volatility, with safe-haven assets like gold and silver seeing a sharp sell-off as the U.S. dollar rebounded from four-year lows.",
-    "context": "- President Trump praised Warsh on Truth Social, predicting he would be one of the 'greatest' Fed Chairs in history.\n\n- Gold prices tumbled 9% to approximately $4,880 an ounce following the announcement, after having reached record highs earlier in the week.\n\n- The nomination comes amid ongoing tensions between the White House and the current Fed leadership over interest rate policy and central bank independence.\n\n- Markets viewed the pick as a shift toward a potentially more pro-growth or politically aligned monetary policy framework.",
-    "date": "January 30, 2026"
+    "title": "U.S. Inflation Resists Fed Targets as CPI Data Normalizes Post-Shutdown",
+    "summary": "Key inflation data released this week showed the Consumer Price Index (CPI) remaining stubbornly above the Federal Reserve's target, with headline inflation reaching 2.7% year-on-year. This was the first clear look at the U.S. economy following recent government data disruptions, signaling that price pressures in food and utilities are offsetting declines in energy and used vehicles.",
+    "context": "- Food prices rose at their fastest monthly pace since 2022, primarily driven by supply chain shifts and seasonal demand.\n\n- Markets had hoped for a sharper cooling of core services, but rent and owners' equivalent rent categories remained elevated.\n\n- The data reinforced the Federal Reserve's recent decision to hold rates steady, as officials await evidence that inflationary effects from new tariffs will be temporary.\n\n- Treasury yields fluctuated as traders adjusted bets, now pricing in a 'higher-for-longer' scenario through at least the first half of 2026.",
+    "date": "February 13, 2026"
   },
   {
     "id": "2",
-    "title": "Federal Reserve Holds Rates Steady Amid Robust GDP Growth",
-    "summary": "The Federal Reserve opted to keep interest rates unchanged at a range of 3.5% to 3.75% during its January policy meeting. Despite pressure from the White House to lower borrowing costs, Fed Chair Jerome Powell emphasized that the central bank is in 'no rush' to cut rates given the economy's strong performance.",
-    "context": "- Official data showed annualized GDP growth of 4.4% for the third quarter of 2025, with some estimates suggesting a jump to 5.4% in the following period.\n\n- Jerome Powell signaled that policymakers intend to remain patient as they monitor a 'fragile' labor market and persistent inflationary pressures.\n\n- Large-scale layoff announcements from firms like Amazon and UPS (totaling over 52,000 jobs) factored into the cautious tone of the FOMC statement.\n\n- Investors have pushed back expectations for the next rate cut to the summer of 2026 at the earliest.",
-    "date": "January 28, 2026"
+    "title": "Takaichi's Landmark Election Victory Triggers Global Inflow to Japanese Equities",
+    "summary": "Japanese stock markets extended their record-breaking rally this week following Prime Minister Sanae Takaichi’s landslide election victory. Investors are betting on a growth-focused agenda featuring significant tax cuts and a record 122 trillion yen budget, propelling the Nikkei 225 to new highs even as global tech sentiment remained mixed.",
+    "context": "- The ruling party secured a two-thirds supermajority, granting Takaichi a mandate to pursue aggressive fiscal expansion and constitutional amendments.\n\n- Japanese tech stocks, specifically chip-testing giant Advantest, saw gains exceeding 11% as capital rotated out of expensive U.S. software names.\n\n- Concerns over debt sustainability pushed 10-year Japanese Government Bond (JGB) yields toward 2.27%, a level not seen in years.\n\n- The yen remained volatile near the 160-per-dollar threshold, creating a complex backdrop for the Bank of Japan's next policy move.",
+    "date": "February 9, 2026"
   },
   {
     "id": "3",
-    "title": "Nvidia Doubles Down on AI Infrastructure with $2 Billion CoreWeave Investment",
-    "summary": "Nvidia significantly expanded its partnership with AI cloud provider CoreWeave, investing an additional $2 billion to bolster specialized computing infrastructure. The move highlights the intensifying race among tech giants to secure the hardware necessary for large-scale artificial intelligence models.",
-    "context": "- The investment sent CoreWeave shares sharply higher and reinforced Nvidia's role as a primary kingmaker in the generative AI ecosystem.\n\n- Analysts suggest the deal is a strategic move to secure captive demand for Nvidia's next-generation Blackwell and H200 chips.\n\n- The news broke as the 'Magnificent Seven' tech stocks faced heightened scrutiny over their valuations ahead of major quarterly earnings reports.\n\n- CoreWeave is now projected to hit a market capitalization exceeding $100 billion by late 2027 based on current revenue trajectories.",
-    "date": "January 26, 2026"
+    "title": "IMF Praises Australia's 'Soft Landing' Amid Global Trade Tensions",
+    "summary": "The International Monetary Fund (IMF) concluded its Article IV consultation with Australia, commending the nation's resilient economy and its transition toward a soft landing. While growth has picked up to 2.1%, the IMF warned that persistent services inflation and global trade instability remain significant risks to the 2026 outlook.",
+    "context": "- The IMF Executive Board highlighted that Australia's unemployment rate remains historically low at 4.3% despite tightening financial conditions.\n\n- Underlying inflation above 3% prompted the IMF to support the Reserve Bank of Australia’s cautious approach to further interest rate cuts.\n\n- Housing supply constraints were identified as a critical domestic risk, with the IMF urging holistic tax and regulatory reforms to boost dwelling investment.\n\n- Directors noted that while Australia is well-positioned, 'elevated global uncertainty' and volatile commodity prices could still dampen external demand.",
+    "date": "February 12, 2026"
   }
 ]
