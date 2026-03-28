@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "title": "U.S. Inflation Resists Fed Targets as CPI Data Normalizes Post-Shutdown",
-    "summary": "Key inflation data released this week showed the Consumer Price Index (CPI) remaining stubbornly above the Federal Reserve's target, with headline inflation reaching 2.7% year-on-year. This was the first clear look at the U.S. economy following recent government data disruptions, signaling that price pressures in food and utilities are offsetting declines in energy and used vehicles.",
-    "context": "- Food prices rose at their fastest monthly pace since 2022, primarily driven by supply chain shifts and seasonal demand.\n\n- Markets had hoped for a sharper cooling of core services, but rent and owners' equivalent rent categories remained elevated.\n\n- The data reinforced the Federal Reserve's recent decision to hold rates steady, as officials await evidence that inflationary effects from new tariffs will be temporary.\n\n- Treasury yields fluctuated as traders adjusted bets, now pricing in a 'higher-for-longer' scenario through at least the first half of 2026.",
-    "date": "February 13, 2026"
+    "title": "Trump Extends Iran Strike Deadline as Oil Markets Face 'Escalation Trap'",
+    "summary": "Global markets remained on edge as President Donald Trump extended a 48-hour ultimatum for strikes on Iranian energy infrastructure by an additional 10 days, setting a new deadline of April 6. While the delay provided a brief reprieve for risk assets, Brent crude fluctuated near $110 per barrel amid warnings from analysts that the conflict has entered an 'escalatory doom loop' with no clear diplomatic exit.",
+    "context": "- Brent crude prices stayed approximately 50% higher than pre-conflict levels, with Saxo Bank warning of a potential surge to $150 if the Strait of Hormuz remains contested.\n\n- The U.S. Pentagon reportedly considered diverting military aid originally intended for Ukraine to the Middle East to bolster regional defenses.\n\n- Iran responded to a U.S. 15-point ceasefire proposal with demands for a total halt to aggression and compensation for war losses.\n\n- Domestic U.S. gasoline prices continued to rise, contributing to a decline in President Trump’s approval ratings to approximately 40%.",
+    "date": "March 27, 2026"
   },
   {
     "id": "2",
-    "title": "Takaichi's Landmark Election Victory Triggers Global Inflow to Japanese Equities",
-    "summary": "Japanese stock markets extended their record-breaking rally this week following Prime Minister Sanae Takaichi’s landslide election victory. Investors are betting on a growth-focused agenda featuring significant tax cuts and a record 122 trillion yen budget, propelling the Nikkei 225 to new highs even as global tech sentiment remained mixed.",
-    "context": "- The ruling party secured a two-thirds supermajority, granting Takaichi a mandate to pursue aggressive fiscal expansion and constitutional amendments.\n\n- Japanese tech stocks, specifically chip-testing giant Advantest, saw gains exceeding 11% as capital rotated out of expensive U.S. software names.\n\n- Concerns over debt sustainability pushed 10-year Japanese Government Bond (JGB) yields toward 2.27%, a level not seen in years.\n\n- The yen remained volatile near the 160-per-dollar threshold, creating a complex backdrop for the Bank of Japan's next policy move.",
-    "date": "February 9, 2026"
+    "title": "S&P 500 Breaches 200-Day Moving Average Amid Stagflation Fears",
+    "summary": "U.S. equity markets suffered their fifth consecutive week of losses, with the S&P 500 closing below its 200-day moving average for the first time in over 200 sessions. Investor sentiment was battered by a 'hawkish hold' from the Federal Reserve and OECD projections that U.S. inflation will hit 4.2% in 2026, significantly higher than previous estimates.",
+    "context": "- The S&P 500 and Nasdaq Composite have declined 7.3% and 10.1% respectively from their January highs, entering a technical 'valuation reset' phase.\n\n- Energy remained the sole outperforming sector, gaining 2.75% on the week and bringing its year-to-date advance to nearly 33%.\n\n- Gold prices retreated from weekly highs to roughly $4,410 an ounce as the delayed strike deadline reduced immediate 'safe haven' demand.\n\n- Major financial institutions, including Goldman Sachs, revised their U.S. recession models upward due to persistent energy-driven price pressures.",
+    "date": "March 27, 2026"
   },
   {
     "id": "3",
-    "title": "IMF Praises Australia's 'Soft Landing' Amid Global Trade Tensions",
-    "summary": "The International Monetary Fund (IMF) concluded its Article IV consultation with Australia, commending the nation's resilient economy and its transition toward a soft landing. While growth has picked up to 2.1%, the IMF warned that persistent services inflation and global trade instability remain significant risks to the 2026 outlook.",
-    "context": "- The IMF Executive Board highlighted that Australia's unemployment rate remains historically low at 4.3% despite tightening financial conditions.\n\n- Underlying inflation above 3% prompted the IMF to support the Reserve Bank of Australia’s cautious approach to further interest rate cuts.\n\n- Housing supply constraints were identified as a critical domestic risk, with the IMF urging holistic tax and regulatory reforms to boost dwelling investment.\n\n- Directors noted that while Australia is well-positioned, 'elevated global uncertainty' and volatile commodity prices could still dampen external demand.",
-    "date": "February 12, 2026"
+    "title": "UK Economy Labeled 'G7 Laggard' as Energy Crisis Dents Consumer Confidence",
+    "summary": "The OECD issued a grim forecast for the United Kingdom, labeling it the lowest-growth country in the G7 for 2026. The ongoing Middle East conflict has effectively quashed earlier hopes for spring interest rate cuts, forcing the Bank of England to maintain a 'higher-for-longer' stance as energy costs strain household budgets and small business margins.",
+    "context": "- British consumer confidence hit its lowest level since the announcement of sweeping U.S. trade tariffs last year, according to recent retail data.\n\n- UK two-year gilt yields rose to 4.56%, reflecting market expectations that the Bank of England may be forced into further hikes rather than cuts.\n\n- Despite the macro gloom, UK retail sales for February fell by a less-than-expected 0.4%, showing some underlying consumer resilience.\n\n- The FTSE 100 remained largely flat for the week, weighed down by the banking and defense sectors despite gains in heavy-weight energy stocks.",
+    "date": "March 27, 2026"
   }
 ]
