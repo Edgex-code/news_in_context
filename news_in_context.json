@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "title": "US Treasury Yields Surge to Multi-Decade Highs as Debt Supply Swells",
-    "summary": "The world's benchmark borrowing cost, the 10-year US Treasury yield, has climbed to levels unseen since 2007 to touch **5.23%**, with the 30-year rising even further. Rather than a single trigger, this reflects a build-up: an economy still running hot, an inflation rate the Federal Reserve has struggled to tame, and a swelling supply of government and corporate debt as Washington's deficit widens and companies borrow heavily to fund AI infrastructure.",
-    "context": "- Yields this high were last seen just before the 2007-08 financial crisis, when the economy looked very different; today's move reflects sticky inflation and heavy bond issuance rather than a single event.\n\n- Washington's widening budget deficit and a wave of corporate borrowing to fund AI data centres have swollen the supply of bonds hitting the market, pushing up the \"term premium\" investors demand.\n\n- Sustained yields above **5%** raise borrowing costs across the economy, potentially straining housing, commercial real estate and heavily indebted companies that must refinance.",
-    "date": "25 September 2026"
+    "title": "Weak September Jobs Data Reopens Debate Over Whether the Fed Needs to Hike Again",
+    "summary": "The US economy added just **29,000** jobs in September, far below forecasts, and unemployment edged up to 4.2%. The report matters because the Federal Reserve had been leaning towards another rate rise to contain stubborn inflation. A sharp cooling in hiring suggests the labour market may be turning, giving policymakers a reason to pause rather than tighten further.\n\nThe data lands just as inflation itself shows early signs of easing.",
+    "context": "- Rate-hike talk returned this year because inflation re-accelerated, partly on energy costs tied to the Iran war. The jobs miss challenges the view that the economy is strong enough to absorb tighter policy.\n\n- Officials including New York Fed President John Williams and Vice Chair Philip Jefferson signalled support for a pause in October. Markets now price roughly a **76%** chance of rates being left unchanged.\n\n- August PCE inflation slowed to an annual **3.4%** from 3.7%, but is still well above target. One soft payrolls print does not settle the debate, as monthly jobs data are often revised.",
+    "date": "02 October 2026"
   },
   {
     "id": "2",
-    "title": "Saudi Arabia Pushes Oil Exports to Wartime High Despite Pipeline Attack",
-    "summary": "Saudi Arabia's crude exports have jumped to roughly **6 million barrels a day**, their highest since the Iran war began earlier this year, even after a drone strike knocked out the kingdom's key East-West pipeline. The surge underscores how central Gulf oil supply has become to keeping global energy markets stable while the conflict disrupts shipping through the Strait of Hormuz. Riyadh's ability to reroute barrels quickly has so far prevented the kind of supply shock many feared when the war began, though the margin for error remains thin.",
-    "context": "- The East-West pipeline lets Saudi Arabia bypass the Strait of Hormuz, where Iran has targeted tankers since the war began; a drone attack from Iraq damaged the pipeline this month.\n\n- Despite the pipeline outage, exports rose roughly **80%** versus August as Riyadh redirected crude through Gulf terminals and drew on spare capacity built up in recent years.\n\n- Reliance on a single vulnerable route highlights how fragile regional oil logistics remain, with any escalation risking a sharper price spike.",
-    "date": "25 September 2026"
+    "title": "Oil Stays Near $100 as Diesel Shortages, Not Crude, Become the Real Strain",
+    "summary": "Brent crude slipped back below **$100** a barrel after reports that the European Union discussed further releases of diesel and crude stocks. The focus is shifting from crude to refined fuels: Europe's diesel is unusually tight, and emergency inventories are being used as a buffer. It shows how a prolonged conflict around the Strait of Hormuz can strain supply chains well beyond the headline oil price.",
+    "context": "- Refined products are the pinch point. Diesel's premium over crude in Europe has stretched to records this autumn, as Middle East disruption combines with Russia's extended ban on diesel exports.\n\n- Strategic stock releases buy time but do not add supply. Each draw leaves less cushion for winter, when heating and freight demand rise.\n\n- US-Iran tensions remain the main swing factor. A direct clash involving tankers or shipping lanes could quickly push Brent back above **$100**, whatever stockpile policy does.",
+    "date": "02 October 2026"
   },
   {
     "id": "3",
-    "title": "Apple Hit With Record $5.7bn Patent Verdict Over iPhone Haptics",
-    "summary": "A California jury has ordered Apple to pay **$5.7 billion** to Taction Technology, a small haptics firm, ruling that the Taptic Engine inside iPhones and Apple Watches infringes two of its patents. The case, filed in 2021, is now the largest patent verdict in US history, surpassing a prior multibillion-dollar judgment against Intel. Apple says its technology differs from Taction's and plans to appeal, a process that could take years and may reduce the final award.",
-    "context": "- Taction's patents cover vibration-based tactile feedback technology; the case has been in litigation since 2021, moving through discovery and trial before this month's verdict.\n\n- The jury found infringement but not wilful, which typically limits the damages multiplier available to plaintiffs compared with a finding of deliberate copying.\n\n- Apple's planned appeal could take years and, if past cases are any guide, often reduces the final payout the company must pay.",
-    "date": "25 September 2026"
+    "title": "Broadcom to Lend Anthropic Up to $42bn, Exposing the Circular Financing Behind AI",
+    "summary": "Anthropic's IPO prospectus reveals that Broadcom could lend it up to **$42bn** through convertible notes to help pay for AI chips. Broadcom would therefore be both Anthropic's supplier and its lender. The disclosure matters because it shows how the AI build-out is increasingly financed by the companies selling the hardware, raising questions about concentration risk and conflicts of interest just as Anthropic prepares to list.",
+    "context": "- The loan could cover about a third of the **$125.2bn** Anthropic has committed to a five-year lease of Google-designed TPU chips. The notes could convert into Anthropic shares.\n\n- Anthropic's own filing flags Broadcom's dual role as supplier and lender as a potential conflict. Such \"circular\" deals let suppliers support demand for their own products.\n\n- Anthropic is reportedly targeting an IPO roadshow from around 9 November, at a reported valuation of **$1.8-2 trillion**, which would make it one of the largest listings ever.",
+    "date": "01 October 2026"
   }
 ]
