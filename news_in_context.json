@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "title": "ECB Holds Rates as Lagarde Announces Early Exit",
-    "summary": "The European Central Bank left its deposit rate at **2.50%** but discussed a hike, while Christine Lagarde said she will step down in February 2027, months before her term ends. The timing leaves the ECB changing leadership just as energy-driven inflation is forcing it back towards tightening.\n\nThe decision matters less for the pause itself than for what it signals: a central bank still leaning hawkish and facing a leadership handover.",
-    "context": "- The ECB has raised rates twice in the past five months to counter energy-led inflation. Its statement warned that rising energy prices pose upside risks to inflation and downside risks to growth.\n\n- Lagarde is due to leave on 7 February 2027, nearly nine months early. Reports link the timing to the French presidential election in spring, so a successor can be chosen before that political risk lands.\n\n- Policymakers said the hold \"does not preclude\" a future hike, and a December move is widely expected. French fiscal strain adds to the difficulty, since higher rates widen the gap between core and peripheral borrowing costs.",
-    "date": "29 October 2026"
+    "title": "Midterm Result Turns Long-Running AI Funding Worries Into a Policy Question",
+    "summary": "Technology shares suffered their sharpest one-day fall in months after Democratic gains in the US midterm elections, with the Nasdaq 100 down **6.3%** on Thursday. Investors are weighing what a changed Congress could mean for AI regulation and data-centre expansion.\n\nThe election was the trigger rather than the cause. Doubts over whether record AI spending can be financed and repaid had been building for weeks.",
+    "context": "- Hyperscalers have guided to extraordinary capital spending this year, and one of them recently reported negative free cash flow. That left the sector exposed to any new threat to the funding story.\n\n- Investors fear tighter oversight, planning limits on data centres or less favourable tax treatment. No specific legislation has been proposed, so the move reflects uncertainty about direction rather than a known policy change.\n\n- The selloff erased roughly **$2.3tn** of market value and spread to Asian AI-linked shares. A partial rebound on Friday suggests some investors see the reaction as overdone.",
+    "date": "05 November 2026"
   },
   {
     "id": "2",
-    "title": "Fed Pauses After September Hike as Hawkish Dissents Keep More Tightening in View",
-    "summary": "The Federal Reserve held its target range at **3.75%–4%** under chair Kevin Warsh, but two officials voted for another quarter-point hike. The pause follows a September increase, so the Fed is now tightening in steps rather than easing, which is a sharp change from the cuts that dominated earlier policy debate.\n\nThe split shows how uneven the committee's view of inflation risk has become.",
-    "context": "- The vote was 10–2, with both dissenters favouring a hike. The statement described inflation as elevated relative to the 2% goal even as activity grew at a solid pace.\n\n- Warsh said politics played no part in the decision, which matters because the Fed's independence under a new chair is under close watch. Commentators read the pause as a more gradual approach rather than the end of tightening.\n\n- Markets are pricing roughly one further quarter-point hike in December, with more possible into 2027. Energy-driven inflation is the common thread with the ECB and other central banks, which limits room to ease anywhere.",
-    "date": "28 October 2026"
+    "title": "Oil Posts Steepest Weekly Fall Since 2020 as Investors Price In a Possible Iran Settlement",
+    "summary": "Brent crude fell by roughly **16%** over the week, its biggest weekly drop since the pandemic, as traders bet that the US midterm results improve the odds of diplomacy with Iran. Prices had carried a large risk premium since the conflict disrupted Gulf shipping earlier this year.\n\nNo deal has been signed, so the move reflects expectations rather than any restored supply.",
+    "context": "- The war premium dates from the disruption around the Strait of Hormuz, a chokepoint for a large share of the world's seaborne crude. Prices rose sharply because traders feared lasting supply loss.\n\n- Analysts stress the fall is a bet on diplomacy. Tanker attacks in the Gulf continued during the week and prompted a partial bounce, so the market remains highly sensitive to headlines.\n\n- Central banks have raised rates because of energy-driven inflation, and lower oil could ease that pressure. Policymakers have said they will wait for evidence the fall lasts before changing course.",
+    "date": "06 November 2026"
   },
   {
     "id": "3",
-    "title": "Alphabet Slides as AI Spending Pushes Free Cash Flow Negative",
-    "summary": "Alphabet missed estimates and reported negative free cash flow of more than **$9bn** as quarterly capital spending reached $51.3bn, while Microsoft and Meta held up better. Alphabet kept its 2026 capex guidance at $195bn–$205bn.\n\nThe story is about whether AI investment is starting to strain even the best-funded companies, and how far investors will keep rewarding spending before they see returns.",
-    "context": "- Hyperscaler spending is on course to pass $1tn next year, according to CNBC. Free cash flow is now the pressure point, because depreciation and running costs rise before AI revenue does.\n\n- Microsoft trimmed its capex forecast to **$170bn**, though one tracker attributes this to an accounting change rather than restraint. Its finance chief said third-party AI chip delays would push some capacity into the first half of 2027.\n\n- Meta narrowed its 2026 guidance to $135bn–$145bn and also reported negative free cash flow after its own results. Investors are separating firms with clear cloud revenue, such as Microsoft's Azure, from those whose returns are less visible.",
-    "date": "29 October 2026"
+    "title": "Bank of England Raises Rates for the First Time Since 2023 on Energy-Led Inflation",
+    "summary": "The Bank of England lifted Bank Rate by a quarter-point to **4%**, voting 8–1, in its first increase since August 2023. Governor Andrew Bailey blamed energy costs feeding through into prices, and signalled that further tightening may be needed unless the Middle East conflict eases.\n\nIt joins other central banks that are tightening again after expecting to cut.",
+    "context": "- UK inflation reached **3.5%** in September, well above the 2% target. The Bank projects it could approach 5% by the middle of next year, because household energy bills are set to rise in January.\n\n- Catherine Mann was the lone dissenter and wanted a half-point rise. Bailey said the hike should not be read as the start of a long run of increases.\n\n- Bailey said the week's fall in energy prices would not have changed this decision, but could affect whether a second hike is needed. Oil's path now matters directly to the December meeting.",
+    "date": "05 November 2026"
   }
 ]
